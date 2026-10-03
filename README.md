@@ -29,3 +29,7 @@ Click illustrations to enlarge. Print any module to save a clean PDF. Apple devi
 ## Illustrations
 
 Ten original AI-generated illustrations (WebP exports) use flat pastel textbook graphics. Related concepts and numbered practical steps are combined into panels. No artwork from Save My Exams or Cognito is copied or included. `IMAGE-NOTES.md` records the illustration brief and accuracy notes.
+
+## Revision formatting
+
+Yellow highlights identify key scientific relationships; blue highlights identify practical conditions, measurements and units. Spacing is compact but keeps diagrams readable. Past-paper wording has been checked against AQA Paper 1 Higher mark schemes from June 2022 and June 2023. `coverage.json` preserves all topic mappings across the 12 Cell Biology specification subsections, including RP1–3.
