@@ -37,3 +37,11 @@ Generated with the built-in image-generation tool. Shared brief: original flat 2
 | `ch2-enzyme-trends.svg` | Two authored illustrative plots: temperature and pH versus reaction rate. | Created using Matplotlib. No invented experimental data or fixed optimum values. |
 
 All nine generated illustrations were visually reviewed together; the corrected leaf was reviewed individually. Keep captions and explanatory text with the images, which intentionally simplify structures and are not to scale.
+
+## Chapter 3 illustration brief and review
+
+Fifteen original images, exported as `assets/ch3-*.webp`, use white backgrounds, simple flat pastel shapes, navy outlines and brief readable captions. Prompt topics: four human infections; malaria pathogen/vector/prevention; non-specific defences; phagocytosis/antibodies/antitoxins; TMV/black spot/aphids; nitrate/magnesium deficiencies; plant defences; vaccination sequence; selection of antibiotic-resistant bacteria; drug-trial sequence; six-stage hybridoma production; diagnosis/research/targeted treatment; benign/malignant/secondary tumours; three smoking mechanisms; diet/activity/type 2 diabetes/alcohol.
+
+Prompts explicitly distinguish antibodies from lymphocytes, the mosquito vector from the protist pathogen, and selection from induced resistance. Captions explain short causal links; accompanying notes contain definitions, qualifications and exam wording. Images are conceptual models, not diagnostic photographs, exact anatomy or molecular structures. Realistic-looking initial plant-defence, antibody-use, cancer, smoking and lifestyle drafts were replaced with stricter flat illustration prompts.
+
+`assets/ch3-pregnancy-results.svg` is authored rather than generated: conventional T+C positive, C-only negative, and missing-C invalid. The page explains the test design supplied in a question takes priority. No commercial revision artwork is copied.

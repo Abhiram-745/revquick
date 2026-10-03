@@ -1,6 +1,6 @@
-# Biology, clearly — Chapters 1 & 2
+# Biology, clearly — Chapters 1–3
 
-A small, multi-page revision website for AQA GCSE Biology 8461: Cell Biology (4.1) and Organisation (4.2). Each chapter has four module pages with clickable topic contents, original illustrations, practical storyboards, definitions and exam-focused notes.
+A small, multi-page revision website for AQA GCSE Biology 8461: Cell Biology (4.1), Organisation (4.2), and Infection and response (4.3). Chapters 1 and 2 each have four module pages; Chapter 3 has three with clickable topic contents, original illustrations, practical storyboards, definitions and exam-focused notes.
 
 ## Run locally
 
@@ -51,3 +51,16 @@ Original bullet-point explanations retain the scientific links needed for explai
 Chapter 2 adds nine original AI-generated WebP illustrations plus two authored SVG figures for the exact blood-flow route and illustrative enzyme-rate curves. Images have intrinsic dimensions, responsive widths and display-height caps. Suitable diagrams sit beside notes on desktop and stack on smaller screens; click-to-enlarge preserves access to the original resolution. Chapter 1's oversized comparison sheets use the same treatment.
 
 The specialised-cell table uses explicit named structures (acrosome, myelin sheath, lignin and sieve plates) with bullet-point adaptation links. Mitochondria explanations explicitly connect aerobic respiration to energy release and the named cellular process.
+
+## Chapter 3
+
+Three modules follow Blertly: Communicable diseases, Preventing and treating disease, and Non-communicable diseases. The last revisits AQA 4.2.2.5–7, matching Blertly’s chapter organisation. `chapter-3-coverage.json` maps all 13 subsections of AQA 4.3, with Biology-only and Higher-Tier-only content clearly labelled. RP2 links back to the full Chapter 1 practical.
+
+- `chapter-3.html` — module picker
+- `communicable-diseases.html` — pathogens, named diseases, human and plant defences
+- `preventing-disease.html` — vaccination, medicines, resistance, drug trials and monoclonal antibodies
+- `non-communicable-diseases.html` — health, risk evidence, cancer, smoking, diet, exercise and alcohol
+
+Fifteen original AI-generated illustrations combine short captions and visual explanations. An authored SVG gives precise positive, negative and invalid pregnancy-test results. Hybridoma production, control lines and targeted treatments include step-by-step explanations informed by the June 2022 and 2023 AQA Higher Paper 1 mark schemes and examiner reports.
+
+Practical layouts in Chapters 1–2 align image, method and controls on wide screens and stack on smaller screens; exam bullets remain grouped. Image dimensions and display-height limits reduce layout shifts and oversized diagrams.

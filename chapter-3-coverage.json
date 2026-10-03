@@ -1,0 +1,187 @@
+{
+  "chapter": "Infection and response",
+  "specification": "AQA GCSE Biology 8461 section 4.3; final Blertly module revisits 4.2.2.5\u20137",
+  "module_structure": [
+    "Communicable diseases",
+    "Preventing & treating disease",
+    "Non-communicable diseases"
+  ],
+  "subsections": {
+    "4.3.1.1": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "pathogens",
+        "title": "Pathogens & how they cause disease"
+      },
+      {
+        "page": "communicable-diseases.html",
+        "topic": "spread",
+        "title": "Spread & reducing transmission"
+      }
+    ],
+    "4.3.1.2": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "human-diseases",
+        "title": "Measles, HIV, Salmonella & gonorrhoea"
+      },
+      {
+        "page": "communicable-diseases.html",
+        "topic": "plant-infections",
+        "title": "Plant infections & aphids"
+      }
+    ],
+    "4.3.1.3": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "human-diseases",
+        "title": "Measles, HIV, Salmonella & gonorrhoea"
+      }
+    ],
+    "4.3.1.5": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "malaria",
+        "title": "Malaria: pathogen versus vector"
+      }
+    ],
+    "4.3.1.6": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "body-defences",
+        "title": "Non-specific body defences"
+      },
+      {
+        "page": "communicable-diseases.html",
+        "topic": "white-blood-cells",
+        "title": "White blood cells & the immune response"
+      }
+    ],
+    "4.3.1.4": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "plant-infections",
+        "title": "Plant infections & aphids"
+      }
+    ],
+    "4.3.3.1": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "plant-infections",
+        "title": "Plant infections & aphids"
+      },
+      {
+        "page": "communicable-diseases.html",
+        "topic": "plant-diagnosis",
+        "title": "Plant symptoms & mineral deficiencies"
+      }
+    ],
+    "4.3.3.2": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "plant-defences",
+        "title": "Plant defence mechanisms"
+      }
+    ],
+    "4.1.1.6": [
+      {
+        "page": "communicable-diseases.html",
+        "topic": "culture-recap",
+        "title": "Culturing microorganisms: practical recap"
+      }
+    ],
+    "4.3.1.7": [
+      {
+        "page": "preventing-disease.html",
+        "topic": "vaccination",
+        "title": "Vaccination & a faster immune response"
+      }
+    ],
+    "4.3.1.8": [
+      {
+        "page": "preventing-disease.html",
+        "topic": "medicines",
+        "title": "Antibiotics & painkillers"
+      },
+      {
+        "page": "preventing-disease.html",
+        "topic": "resistance",
+        "title": "How antibiotic resistance spreads"
+      }
+    ],
+    "4.3.1.9": [
+      {
+        "page": "preventing-disease.html",
+        "topic": "drug-discovery",
+        "title": "Where drugs come from"
+      },
+      {
+        "page": "preventing-disease.html",
+        "topic": "drug-trials",
+        "title": "Testing drugs: safety, efficacy & dose"
+      }
+    ],
+    "4.3.2.1": [
+      {
+        "page": "preventing-disease.html",
+        "topic": "monoclonal-production",
+        "title": "Making monoclonal antibodies"
+      }
+    ],
+    "4.3.2.2": [
+      {
+        "page": "preventing-disease.html",
+        "topic": "pregnancy-tests",
+        "title": "Applying monoclonal antibodies: pregnancy tests"
+      },
+      {
+        "page": "preventing-disease.html",
+        "topic": "monoclonal-uses",
+        "title": "Uses, targeted treatment & evaluation"
+      }
+    ],
+    "4.2.2.5": [
+      {
+        "page": "non-communicable-diseases.html",
+        "topic": "health",
+        "title": "Health, disease & interacting conditions"
+      }
+    ],
+    "4.2.2.6": [
+      {
+        "page": "non-communicable-diseases.html",
+        "topic": "risk-evidence",
+        "title": "Risk factors: association is not proof"
+      },
+      {
+        "page": "non-communicable-diseases.html",
+        "topic": "smoking",
+        "title": "Smoking: explain three different mechanisms"
+      },
+      {
+        "page": "non-communicable-diseases.html",
+        "topic": "diet-exercise",
+        "title": "Diet, exercise & type 2 diabetes"
+      },
+      {
+        "page": "non-communicable-diseases.html",
+        "topic": "alcohol-carcinogens",
+        "title": "Alcohol, unborn babies & other carcinogens"
+      }
+    ],
+    "4.2.2.7": [
+      {
+        "page": "non-communicable-diseases.html",
+        "topic": "cancer",
+        "title": "Cancer: benign, malignant & secondary tumours"
+      }
+    ]
+  },
+  "tier_notes": {
+    "4.3.2": "Biology only, Higher Tier only",
+    "4.3.3.1": "Biology only; detection and identification Higher Tier only",
+    "4.3.3.2": "Biology only"
+  },
+  "required_practical_recap": "microscopy.html#rp2",
+  "visuals": 16
+}
