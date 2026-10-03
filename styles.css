@@ -192,3 +192,38 @@ figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
 @media print{.flow-map{break-inside:avoid}.visual-art{position:static}figure img{max-height:150mm}.chapter-switch{display:none}}
 
 .adaptation-points{padding-left:20px;margin:0}.adaptation-points li{margin:6px 0}.adaptation-points b{color:#11675c}.adaptation-points li::marker{color:#167968}
+
+/* Practical notes: align the storyboard with the method and its exam controls. */
+@media screen{
+ .exam-points{display:block;max-width:105ch}
+ .exam-points li{margin:6px 0}
+ .exam{max-width:115ch}
+ .practical-layout{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:20px 24px;align-items:start;margin:18px 0}
+ .practical-layout>.practical-columns{display:contents}
+ .practical-layout>figure{grid-column:1;grid-row:1 / span 2;margin:0;width:100%;min-width:0;position:sticky;top:90px}
+ .practical-layout .method{grid-column:2;grid-row:1;min-width:0}
+ .practical-layout .method-notes{grid-column:2;grid-row:2;min-width:0;padding:0;border:0}
+ .practical-layout .method h3,.practical-layout .method-notes h3:first-child{margin-top:0}
+ .practical-layout .method-notes>.practical:first-child{margin-top:0}
+ .practical-layout .method ol{margin-top:0;padding-left:24px}
+ .practical-layout .method-notes .notes-list{max-width:none}
+ .practical-layout .method-notes>.formula:first-child{margin-top:0}
+ .practical-layout figure img{max-height:520px}
+}
+@media screen and (min-width:1600px){
+ .practical-layout{grid-template-columns:minmax(0,.95fr) minmax(0,1.15fr) minmax(0,1fr)}
+ .practical-layout>figure{grid-row:1}
+ .practical-layout .method-notes{grid-column:3;grid-row:1;padding-left:20px;border-left:1px solid var(--line)}
+}
+@media screen and (max-width:1000px){
+ .practical-layout{grid-template-columns:minmax(0,1fr);gap:18px}
+ .practical-layout>figure,.practical-layout .method,.practical-layout .method-notes{grid-column:1;grid-row:auto;position:static}
+ .practical-layout>figure{max-width:850px}
+ .practical-layout figure img{max-height:480px}
+ .practical-layout .method-notes{padding-top:15px;border-top:1px solid var(--line)}
+}
+@media screen and (max-width:600px){
+ .practical-layout{gap:16px}
+ .practical-layout figure img{max-height:380px}
+}
+@media print{.practical-layout{display:block}.practical-layout>figure{position:static}.practical-layout .method-notes{border:0;padding:0}}
