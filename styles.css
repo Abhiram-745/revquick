@@ -56,3 +56,5 @@ mark.condition{background:linear-gradient(transparent 27%,#d6edff 27%,#d6edff 96
 @media(max-width:850px){main{padding-top:20px}.section{padding:21px}.sidebar a{padding:8px 11px}.hero{padding-bottom:22px}}
 @media(max-width:500px){.section{padding:17px}.exam,.practical{padding:15px}.definition{padding:15px}.card{padding:22px}.sidebar a{margin:3px}.practical-columns{gap:19px}th,td{padding:9px}}
 @media print{main{padding:0}.section{padding:4mm 0}.definition{font-size:11pt}.visual-copy>p{font-size:10pt}.hero{padding:0}}
+
+.sources summary{cursor:pointer;font-size:13px;font-weight:700;color:var(--muted)}.sources[open] summary{margin-bottom:12px}.sources ul{margin:0;padding-left:19px;font-size:13px}.sources{margin-top:8px}
