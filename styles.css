@@ -58,3 +58,57 @@ mark.condition{background:linear-gradient(transparent 27%,#d6edff 27%,#d6edff 96
 @media print{main{padding:0}.section{padding:4mm 0}.definition{font-size:11pt}.visual-copy>p{font-size:10pt}.hero{padding:0}}
 
 .sources summary{cursor:pointer;font-size:13px;font-weight:700;color:var(--muted)}.sources[open] summary{margin-bottom:12px}.sources ul{margin:0;padding-left:19px;font-size:13px}.sources{margin-top:8px}
+
+/* Comfortable reading: full-width pages, larger notes and an inline topic menu. */
+@media screen {
+ html{scroll-padding-top:85px}
+ body{font-size:21px;line-height:1.6}
+ main{max-width:none;width:100%;padding:20px 20px 36px}
+ header .bar{max-width:none;padding:13px 20px}
+ header nav{font-size:16px}
+ .hero{padding:0 0 18px}
+ h1{font-size:clamp(36px,3.4vw,54px);margin:10px 0 12px;max-width:none}
+ .lead,.hero .lead{font-size:22px;max-width:80ch}
+ .layout{display:block}
+ .sidebar{position:static;border-radius:14px;padding:13px 16px;margin-bottom:16px}
+ .sidebar h2{font-size:15px;margin:0 0 9px;letter-spacing:.04em}
+ .sidebar nav{display:flex;flex-wrap:wrap;gap:8px}
+ .sidebar a{display:block;margin:0;padding:9px 13px;border:1px solid var(--line);border-radius:9px;font-size:17px;font-weight:700;background:#f5f8fa;color:var(--ink)}
+ .sidebar a.active{background:var(--mint);border-color:var(--accent)}
+ .section{padding:22px 24px;border-radius:17px;margin-bottom:16px}
+ h2{font-size:32px;margin-bottom:14px}h3{font-size:24px}
+ p{max-width:85ch;margin-bottom:13px}
+ .definition,.visual-copy>p{font-size:21px;line-height:1.6}
+ .definition{padding:15px 18px}
+ .exam,.practical{font-size:21px;line-height:1.6;padding:15px 18px;margin:14px 0}
+ .exam{border-left:5px solid #dbad26;border-radius:0 12px 12px 0;background:#fff2ba}
+ .exam strong:first-child{font-size:15px;letter-spacing:.06em;margin-bottom:6px}
+ .formula,.method-notes .formula{font-size:23px}
+ table{font-size:20px;line-height:1.55}td,th{padding:12px 14px}
+ td:first-child{font-weight:700}th{background:#e9f1f4}
+ .spec{font-size:14px;margin-bottom:10px}
+ figcaption,.visual-art figcaption{font-size:16px;line-height:1.5}
+ figure{margin:16px 0}
+ .visual-pair{grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);gap:22px;align-items:start}
+ .practical-columns{gap:24px}
+ .small{font-size:17px}.chip{font-size:16px}.print{font-size:16px}
+ .card{padding:24px}.card h2{font-size:30px}
+ .sources summary,.sources ul{font-size:16px}
+ mark.key,mark{background:linear-gradient(transparent 18%,#ffe58a 18%,#ffe58a 96%,transparent 96%)}
+ mark.condition{background:linear-gradient(transparent 18%,#cce7ff 18%,#cce7ff 96%,transparent 96%)}
+}
+@media screen and (max-width:1000px){
+ .visual-pair,.practical-columns{grid-template-columns:1fr}
+ .method-notes{padding-left:0;border-left:0}
+}
+@media screen and (max-width:600px){
+ body{font-size:19px}main{padding:16px 10px 28px}
+ header .bar{padding:12px 10px}header nav{font-size:13px}
+ .section{padding:18px 14px}h1{font-size:35px}h2{font-size:28px}h3{font-size:22px}
+ .lead,.hero .lead,.definition,.visual-copy>p,.exam,.practical{font-size:19px}
+ table{font-size:18px}td,th{padding:10px;min-width:110px}
+ .sidebar{padding:12px}.sidebar a{font-size:16px;padding:8px 10px}
+ .cards{grid-template-columns:1fr}
+ .exam,.definition,.practical{padding:13px 14px}
+ .formula,.method-notes .formula{font-size:20px}
+}
