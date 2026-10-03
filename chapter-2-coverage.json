@@ -1,0 +1,155 @@
+{
+  "chapter": "Organisation",
+  "specification": "AQA GCSE Biology 8461, section 4.2",
+  "subsections": {
+    "4.2.1": [
+      {
+        "page": "digestion.html",
+        "topic": "organisation",
+        "title": "Cells \u2192 tissues \u2192 organs \u2192 systems"
+      }
+    ],
+    "4.2.2.1": [
+      {
+        "page": "digestion.html",
+        "topic": "digestive-system",
+        "title": "Digestion & absorption"
+      },
+      {
+        "page": "digestion.html",
+        "topic": "enzyme-action",
+        "title": "Enzymes & the lock-and-key model"
+      },
+      {
+        "page": "digestion.html",
+        "topic": "temperature-ph",
+        "title": "Temperature, pH & denaturation"
+      },
+      {
+        "page": "digestion.html",
+        "topic": "digestive-enzymes",
+        "title": "Digestive enzymes, bile & food products"
+      },
+      {
+        "page": "digestion.html",
+        "topic": "food-tests",
+        "title": "Required practical 4: food tests"
+      },
+      {
+        "page": "digestion.html",
+        "topic": "amylase-practical",
+        "title": "Required practical 5: pH & amylase"
+      }
+    ],
+    "4.2.2.3": [
+      {
+        "page": "circulation.html",
+        "topic": "blood",
+        "title": "Blood components & adaptations"
+      }
+    ],
+    "4.2.2.2": [
+      {
+        "page": "circulation.html",
+        "topic": "vessels",
+        "title": "Arteries, veins & capillaries"
+      },
+      {
+        "page": "circulation.html",
+        "topic": "heart",
+        "title": "The heart & double circulation"
+      },
+      {
+        "page": "breathing.html",
+        "topic": "lungs",
+        "title": "Lung structure & alveoli"
+      },
+      {
+        "page": "breathing.html",
+        "topic": "ventilation",
+        "title": "Ventilation: breathing in & out"
+      },
+      {
+        "page": "breathing.html",
+        "topic": "air",
+        "title": "Inhaled & exhaled air"
+      }
+    ],
+    "4.2.2.4": [
+      {
+        "page": "circulation.html",
+        "topic": "chd",
+        "title": "Coronary heart disease"
+      },
+      {
+        "page": "circulation.html",
+        "topic": "treatments",
+        "title": "Treatments: benefits & risks"
+      }
+    ],
+    "4.2.2.5": [
+      {
+        "page": "circulation.html",
+        "topic": "health",
+        "title": "Health & interactions between diseases"
+      }
+    ],
+    "4.2.2.6": [
+      {
+        "page": "circulation.html",
+        "topic": "risk-factors",
+        "title": "Lifestyle risks & interpreting evidence"
+      }
+    ],
+    "4.2.2.7": [
+      {
+        "page": "circulation.html",
+        "topic": "cancer",
+        "title": "Benign & malignant tumours"
+      }
+    ],
+    "4.2.3.1": [
+      {
+        "page": "plant-transport.html",
+        "topic": "leaf",
+        "title": "Plant tissues & leaf structure"
+      }
+    ],
+    "4.2.3.2": [
+      {
+        "page": "plant-transport.html",
+        "topic": "roots",
+        "title": "Roots & absorption"
+      },
+      {
+        "page": "plant-transport.html",
+        "topic": "xylem-phloem",
+        "title": "Xylem, phloem & translocation"
+      },
+      {
+        "page": "plant-transport.html",
+        "topic": "transpiration",
+        "title": "Transpiration & stomata"
+      },
+      {
+        "page": "plant-transport.html",
+        "topic": "factors",
+        "title": "Factors affecting transpiration"
+      },
+      {
+        "page": "plant-transport.html",
+        "topic": "potometer",
+        "title": "Potometer investigation & rate calculations"
+      }
+    ]
+  },
+  "required_practicals": {
+    "4": "digestion.html#food-tests",
+    "5": "digestion.html#amylase-practical"
+  },
+  "supporting_topics": [
+    "Ventilation and inhaled/exhaled air support lung function.",
+    "Potometer is an apparatus investigation, not a numbered required practical."
+  ],
+  "module_structure": "Four modules follow Blertly; health, risk factors and cancer are included in circulation to cover all of AQA 4.2."
+}

@@ -163,3 +163,32 @@ mark.condition{background:linear-gradient(transparent 27%,#d6edff 27%,#d6edff 96
  .sidebar a{font-size:14px}
  .notes-list,.definition-points,.exam-points{padding-left:21px}
 }
+
+/* Illustrations stay proportionate to the viewport, with full-size viewing on click. */
+figure button{display:flex;align-items:center;justify-content:center}
+figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
+.flow-map{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:18px 0}
+.flow-column{border-radius:14px;padding:16px 20px;border:1px solid var(--line)}
+.flow-column h3{margin:0 0 12px}.flow-column ol{margin:0;padding-left:25px}
+.flow-column li{font-weight:700;margin:7px 0}.blue-flow{background:#e8f3ff;color:#245a89}.red-flow{background:#fff0f1;color:#923448}
+.method-steps li{margin:10px 0}.chapter-switch{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:0 0 18px;font-weight:750}
+@media screen{
+ .section>figure{max-width:1080px}
+ figure img{max-height:540px}
+ .visual-art{position:sticky;top:90px}
+ .visual-art figure img{max-height:500px}
+ .comparison-pair .table-wrap table{margin-top:0}
+}
+@media screen and (max-width:1000px){
+ .visual-art{position:static;order:-1}
+ .visual-art figure{max-width:850px}
+ figure img,.visual-art figure img{max-height:480px}
+}
+@media screen and (max-width:600px){
+ figure img,.visual-art figure img{max-height:380px}
+ .flow-map{gap:10px}.flow-column{padding:12px}.flow-column h3{font-size:18px}.flow-column li{font-size:15px}
+ header .bar{flex-wrap:wrap}.tag{display:none}
+}
+@media print{.flow-map{break-inside:avoid}.visual-art{position:static}figure img{max-height:150mm}.chapter-switch{display:none}}
+
+.adaptation-points{padding-left:20px;margin:0}.adaptation-points li{margin:6px 0}.adaptation-points b{color:#11675c}.adaptation-points li::marker{color:#167968}

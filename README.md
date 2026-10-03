@@ -1,6 +1,6 @@
-# Biology, clearly — Chapter 1
+# Biology, clearly — Chapters 1 & 2
 
-A small, multi-page revision website for AQA GCSE Biology 8461, Cell Biology (section 4.1). Four module pages, clickable topic contents, original AI-created flat textbook illustrations, practical storyboards, definitions and exam-focused notes.
+A small, multi-page revision website for AQA GCSE Biology 8461: Cell Biology (4.1) and Organisation (4.2). Each chapter has four module pages with clickable topic contents, original illustrations, practical storyboards, definitions and exam-focused notes.
 
 ## Run locally
 
@@ -13,6 +13,14 @@ Import **Abhiram-745/revquick** into Vercel. Keep the root directory at the repo
 No backend, API keys, dependencies or build process. Nothing has been deployed.
 
 ## Pages
+
+- `chapters.html` — chapter picker
+- `chapter-2.html` — Chapter 2 module picker
+- `digestion.html` — organisation, digestion, enzymes, RP4 food tests, RP5 pH and amylase
+- `circulation.html` — blood, vessels, heart, CHD, treatments, health, lifestyle and cancer
+- `breathing.html` — lung structure, gas exchange and supporting ventilation notes
+- `plant-transport.html` — leaf tissues, roots, xylem/phloem, transpiration and potometer investigation
+
 
 - `index.html` — Chapter 1 module picker
 - `cell-structure.html` — types, structures, specialisation, differentiation, units
@@ -33,3 +41,13 @@ Ten original AI-generated illustrations (WebP exports) use flat pastel textbook 
 ## Revision formatting
 
 Yellow highlights identify key scientific relationships; blue highlights identify practical conditions, measurements and units. Spacing is compact but keeps diagrams readable. Past-paper wording has been checked against AQA Paper 1 Higher mark schemes from June 2022 and June 2023. `coverage.json` preserves all topic mappings across the 12 Cell Biology specification subsections, including RP1–3.
+
+## Chapter 2 coverage and presentation
+
+`chapter-2-coverage.json` maps all ten subsections of AQA section 4.2 to the notes, including required practicals 4 and 5. The four module titles follow Blertly. Health, lifestyle risks and cancer are included in the circulation module to cover the whole AQA Organisation section. Ventilation and air-composition notes support lung function. A potometer is explicitly labelled as an apparatus investigation, **not** another numbered required practical.
+
+Original bullet-point explanations retain the scientific links needed for explain/evaluate questions. Green emphasises definitions and key facts; blue identifies practical conditions; yellow identifies exam wording. Past-paper references provide examples rather than claiming a fixed answer guarantees marks.
+
+Chapter 2 adds nine original AI-generated WebP illustrations plus two authored SVG figures for the exact blood-flow route and illustrative enzyme-rate curves. Images have intrinsic dimensions, responsive widths and display-height caps. Suitable diagrams sit beside notes on desktop and stack on smaller screens; click-to-enlarge preserves access to the original resolution. Chapter 1's oversized comparison sheets use the same treatment.
+
+The specialised-cell table uses explicit named structures (acrosome, myelin sheath, lignin and sieve plates) with bullet-point adaptation links. Mitochondria explanations explicitly connect aerobic respiration to energy release and the named cellular process.

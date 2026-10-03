@@ -16,3 +16,24 @@ Created using the built-in AI image-generation capability. Direction: original f
 10. stem-cells.webp — embryonic, adult marrow and plant meristem examples. Platelets noted as cell fragments.
 
 Mathematical values, comparison tables and definitions are live HTML text for accuracy and accessibility. Scientific illustrations are simplified visual aids; captions and notes provide exact statements.
+
+
+## Chapter 2 — final image briefs and review
+
+Generated with the built-in image-generation tool. Shared brief: original flat 2D textbook illustrations; white background; dark navy outlines; restrained mint, blue, lavender and coral; large rounded sans-serif labels; no photographic realism, branding, watermark or copied commercial artwork. Mostly visual content, with short captions for practical steps. Assets are in `assets/`.
+
+| Asset | Final prompt / composition | Accuracy review |
+| --- | --- | --- |
+| `ch2-digestion.webp` | Digestive organs beside an enlarged villus; short structure labels. | Organ functions written separately; lipid products mainly enter lymph through the lacteal. Schematic, not medical anatomy. |
+| `ch2-enzymes.webp` | Substrate fits, products leave, then a changed active-site shape. | Conceptual molecular shapes; unchanged enzyme in successful reaction, incompatible substrate after denaturation. |
+| `ch2-food-tests.webp` | Four positive-result panels: Benedict’s and water bath; iodine; Biuret; Sudan III. | Full reagent methods, negative results and ethanol-emulsion alternative written in the notes. |
+| `ch2-amylase-practical.webp` | Six numbered steps: iodine wells; warm separate solutions; mix/start timer; sample every 30 s; iodine stays orange-brown; repeat pH. | Full variables, controls, endpoint limitations and reciprocal-rate calculation in text. |
+| `ch2-blood-vessels.webp` | Red cell, white cell and platelets above cutaways of artery, vein and capillary. | Red cells have no nucleus; platelets are fragments; vein valve and one-cell-thick capillary wall shown. |
+| `ch2-lungs.webp` | Airway branching and enlarged alveoli with surrounding capillary network. | Simplified anatomical illustration; gas directions and concentration-gradient reasoning written separately. |
+| `ch2-leaf.webp` | Leaf tissue layers, stomatal pore with guard cells, and a root-hair inset. | Edited to remove green organelles from the root hair so it cannot imply chloroplasts in roots. |
+| `ch2-plant-transport.webp` | Whole plant beside hollow lignified xylem and living phloem with perforated end walls. | Transport directions and substances specified in the comparison table. |
+| `ch2-potometer.webp` | Four steps: cut underwater, water-filled airtight apparatus, track bubble, change one factor. | Water uptake is an estimate of transpiration; illustration is supported by complete written method. |
+| `ch2-double-circulation.svg` | Authored functional route through named vessels and four chambers. | Exact arrows authored in SVG, rather than generated. Not an anatomical heart section. |
+| `ch2-enzyme-trends.svg` | Two authored illustrative plots: temperature and pH versus reaction rate. | Created using Matplotlib. No invented experimental data or fixed optimum values. |
+
+All nine generated illustrations were visually reviewed together; the corrected leaf was reviewed individually. Keep captions and explanatory text with the images, which intentionally simplify structures and are not to scale.
