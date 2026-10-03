@@ -1,0 +1,136 @@
+{
+  "chapter": "Bioenergetics",
+  "specification": "AQA GCSE Biology 8461 section 4.4",
+  "module_structure": [
+    "Respiration",
+    "Photosynthesis"
+  ],
+  "subsections": {
+    "4.4.2.1": [
+      {
+        "page": "respiration.html",
+        "topic": "aerobic-anaerobic",
+        "title": "Aerobic & anaerobic respiration"
+      },
+      {
+        "page": "respiration.html",
+        "topic": "fermentation",
+        "title": "Anaerobic respiration in plants & yeast"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "plants-day-night",
+        "title": "Plants respire in light and darkness"
+      }
+    ],
+    "4.4.2.2": [
+      {
+        "page": "respiration.html",
+        "topic": "exercise",
+        "title": "Response to exercise"
+      },
+      {
+        "page": "respiration.html",
+        "topic": "oxygen-debt",
+        "title": "Muscle fatigue, oxygen debt & the liver"
+      }
+    ],
+    "4.4.2.3": [
+      {
+        "page": "respiration.html",
+        "topic": "metabolism",
+        "title": "Metabolism: building & breaking down molecules"
+      }
+    ],
+    "4.4.1.1": [
+      {
+        "page": "photosynthesis.html",
+        "topic": "reaction",
+        "title": "Photosynthesis: the reaction"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "leaf-adaptations",
+        "title": "Leaf adaptations & proving photosynthesis"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "requirements-experiments",
+        "title": "Experiments: light, chlorophyll & carbon dioxide"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "leaf-disc-application",
+        "title": "Exam application: leaf discs & different light colours"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "plants-day-night",
+        "title": "Plants respire in light and darkness"
+      }
+    ],
+    "4.2.3.1": [
+      {
+        "page": "photosynthesis.html",
+        "topic": "leaf-adaptations",
+        "title": "Leaf adaptations & proving photosynthesis"
+      }
+    ],
+    "4.4.1.2": [
+      {
+        "page": "photosynthesis.html",
+        "topic": "limiting-factors",
+        "title": "Rate of photosynthesis & limiting factors"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "inverse-square-greenhouse",
+        "title": "Inverse square law & greenhouse economics"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "rp6",
+        "title": "Required practical 6: light intensity & pondweed"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "leaf-disc-application",
+        "title": "Exam application: leaf discs & different light colours"
+      }
+    ],
+    "4.4.1.3": [
+      {
+        "page": "photosynthesis.html",
+        "topic": "glucose-uses",
+        "title": "Uses of glucose in plants"
+      },
+      {
+        "page": "photosynthesis.html",
+        "topic": "minerals",
+        "title": "Nitrates, magnesium & plant growth"
+      }
+    ],
+    "4.3.3.1": [
+      {
+        "page": "photosynthesis.html",
+        "topic": "minerals",
+        "title": "Nitrates, magnesium & plant growth"
+      }
+    ]
+  },
+  "required_practicals": {
+    "6": "photosynthesis.html#rp6"
+  },
+  "higher_tier": [
+    "Interacting limiting factors",
+    "Inverse square law",
+    "Greenhouse economics",
+    "Detailed oxygen debt definition and liver role"
+  ],
+  "supporting_investigations": [
+    "Starch test and photosynthesis requirements are supporting investigations, not extra numbered required practicals.",
+    "Leaf discs and light-colour investigation are past-paper application examples."
+  ],
+  "definition_policy": "Short AQA phrases and the metabolism definition are exact; other definition explanations preserve the specification meaning without claiming to be verbatim.",
+  "visuals": 14
+}

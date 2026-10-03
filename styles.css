@@ -227,3 +227,14 @@ figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
  .practical-layout figure img{max-height:380px}
 }
 @media print{.practical-layout{display:block}.practical-layout>figure{position:static}.practical-layout .method-notes{border:0;padding:0}}
+
+/* Chapter 4: contained reading width and complete, proportionate diagrams. */
+.chapter-four main{width:100%;max-width:1450px;margin-inline:auto}
+.chapter-four .visual-pair{grid-template-columns:minmax(0,1fr) minmax(0,1.15fr)}
+.chapter-four .visual-art{position:static}
+.chapter-four figure img{width:100%;height:auto;max-width:100%;max-height:none;object-fit:contain}
+.chapter-four .section>figure{max-width:980px;margin-inline:auto}
+.chapter-four .section,.chapter-four .visual-copy,.chapter-four .visual-art{min-width:0}
+@media screen and (max-width:1000px){.chapter-four .visual-pair{grid-template-columns:minmax(0,1fr)}}
+@media screen and (max-width:900px){header .bar{flex-wrap:wrap}header nav{flex-wrap:wrap}}
+@media print{.chapter-four main{max-width:none}.chapter-four .visual-pair{display:block}.chapter-four figure img{width:auto;height:auto;max-width:100%;max-height:150mm}}

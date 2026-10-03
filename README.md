@@ -1,6 +1,6 @@
-# Biology, clearly — Chapters 1–3
+# Biology, clearly — Chapters 1–4
 
-A small, multi-page revision website for AQA GCSE Biology 8461: Cell Biology (4.1), Organisation (4.2), and Infection and response (4.3). Chapters 1 and 2 each have four module pages; Chapter 3 has three with clickable topic contents, original illustrations, practical storyboards, definitions and exam-focused notes.
+A small, multi-page revision website for AQA GCSE Biology 8461: Cell Biology (4.1), Organisation (4.2), Infection and response (4.3), and Bioenergetics (4.4). Chapters 1 and 2 each have four module pages; Chapter 3 has three and Chapter 4 has two, with clickable topic contents, original illustrations, practical storyboards, definitions and exam-focused notes.
 
 ## Run locally
 
@@ -64,3 +64,11 @@ Three modules follow Blertly: Communicable diseases, Preventing and treating dis
 Fifteen original AI-generated illustrations combine short captions and visual explanations. An authored SVG gives precise positive, negative and invalid pregnancy-test results. Hybridoma production, control lines and targeted treatments include step-by-step explanations informed by the June 2022 and 2023 AQA Higher Paper 1 mark schemes and examiner reports.
 
 Practical layouts in Chapters 1–2 align image, method and controls on wide screens and stack on smaller screens; exam bullets remain grouped. Image dimensions and display-height limits reduce layout shifts and oversized diagrams.
+
+## Chapter 4: Bioenergetics
+
+Two module pages follow Blertly’s order: Respiration, then Photosynthesis. `chapter-4.html` opens the module picker; `respiration.html` contains five topics and `photosynthesis.html` ten. `chapter-4-coverage.json` maps all six subsections of AQA 4.4 and RP6. Higher-Tier-only content is labelled, including inverse square calculations, interacting limiting factors, greenhouse economics and the detailed oxygen-debt/liver explanation.
+
+Definitions identify the AQA description of the two energy-transfer reactions and reproduce its metabolism definition. Other explanation boxes preserve the specification meaning in GCSE language rather than claiming all wording is a direct quotation. Exam-answer guidance uses the November 2021 and June 2022/2023 Higher Paper 1 mark schemes and the June 2023 examiner report.
+
+Twelve original AI-generated illustrations and two authored SVG graph sheets pair with moderately detailed bullet notes. Starch-test experiments and leaf-disc applications are distinguished from required practical 6. Diagrams use automatic proportional heights; Chapter 4 has a bounded reading width and stacked layouts on smaller screens.
