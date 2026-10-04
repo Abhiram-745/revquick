@@ -1,25 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
-<title id="title">Human cheek epithelial cells</title><desc id="desc">Three flattened irregular epithelial cells of similar size with small nuclei and straight labels for membrane, nucleus and cytoplasm. Original illustrative drawing informed by microscopy references, not a measured specimen.</desc>
-<rect width="1000" height="600" fill="white"/>
-<style>text{font-family:Arial,Helvetica,sans-serif;fill:#17273a}.title{font-size:32px;font-weight:700}.label{font-size:27px}.note{font-size:22px;fill:#526477}.outline{fill:none;stroke:#25323b;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.wall{fill:none;stroke:#25323b;stroke-width:3.2;stroke-linejoin:round;stroke-linecap:round}.leader{fill:none;stroke:#25323b;stroke-width:1.8}</style>
-<text x="36" y="48" class="title">Human cheek epithelial cells</text>
-<text x="36" y="82" class="note">Biological drawing · clear outlines, no shading</text>
-<!-- Flat, irregular epithelial cells: three representative cells, no overlaps. -->
-<g class="outline">
-<path d="M119 168 L182 140 Q201 137 220 153 L274 197 Q286 213 278 236 L260 287 Q257 307 236 314 L183 331 Q164 336 147 322 L102 290 Q86 279 89 254 L94 206 Q97 182 119 168 Z"/>
-<path d="M337 148 L403 134 Q429 131 452 149 L501 184 Q522 199 517 224 L507 281 Q504 304 482 316 L427 344 Q409 351 390 336 L343 307 Q325 295 325 274 L316 204 Q313 171 337 148 Z"/>
-<path d="M223 360 L279 348 Q302 344 321 358 L372 391 Q394 407 385 430 L364 465 Q353 482 329 484 L270 478 Q243 477 223 457 L194 424 Q181 404 194 385 Z"/>
-<ellipse cx="186" cy="237" rx="22" ry="28" transform="rotate(-13 186 237)"/>
-<ellipse cx="419" cy="239" rx="23" ry="27" transform="rotate(12 419 239)"/>
-<ellipse cx="288" cy="414" rx="24" ry="22" transform="rotate(-12 288 414)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc"><title id="title">Microscope drawing of human cheek epithelial cells</title><desc id="desc">Three flattened irregular cheek cells with blue labels for cell membrane, nucleus and cytoplasm. Scale bar 50 µm represents the model’s real-length units, not a measured microscope specimen.</desc>
+<rect width="1000" height="560" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif}.ink{fill:none;stroke:#101820;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round}.label{font-size:27px;font-weight:700;fill:#1745bc}.guide{fill:none;stroke:#1745bc;stroke-width:1.6}.title{font-size:26px;font-weight:700;fill:#1745bc}.note{font-size:21px;fill:#526477}</style>
+<g class="ink">
+<path d="M65 90 L130 57 Q149 49 166 60 L215 94 Q238 111 235 140 L218 205 Q215 224 194 232 L137 249 Q118 256 98 239 L53 203 Q39 190 43 166 L47 124 Q50 101 65 90 Z"/>
+<path d="M310 54 L365 37 Q392 28 413 44 L463 79 Q483 94 480 120 L471 174 Q467 200 446 212 L390 239 Q369 249 350 230 L311 204 Q288 188 290 163 L283 113 Q280 76 310 54 Z"/>
+<path d="M530 150 L601 118 Q621 110 645 126 L703 168 Q723 183 717 208 L701 269 Q697 293 674 303 L609 329 Q588 339 568 323 L519 286 Q499 271 501 245 L499 197 Q499 167 530 150 Z"/>
+<ellipse cx="139" cy="153" rx="19" ry="23" transform="rotate(-12 139 153)"/>
+<ellipse cx="375" cy="132" rx="20" ry="24" transform="rotate(9 375 132)"/>
+<ellipse cx="624" cy="217" rx="20" ry="24" transform="rotate(-14 624 217)"/>
 </g>
-<g class="leader"><path d="M480 169 H720"/><path d="M442 239 H720"/><path d="M476 279 H720"/></g>
-<text x="739" y="177" class="label">Cell membrane</text>
-<text x="739" y="247" class="label">Nucleus</text>
-<text x="739" y="287" class="label">Cytoplasm</text>
-<text x="739" y="390" class="note">Flat, irregular cells</text>
-<text x="739" y="423" class="note">No cell wall</text>
-<path d="M36 504 H964" stroke="#dfe8ed"/>
-<text x="36" y="544" class="label">Record microscope magnification: ×_____</text>
-<text x="36" y="580" class="note">Draw the cells you observe. This illustrative example is not to scale.</text>
-</svg>
+<g class="guide"><path d="M705 170 H784"/><path d="M644 217 H784"/><path d="M677 261 H784"/></g>
+<text x="803" y="178" class="label" style="font-size:23px">Cell membrane</text><text x="803" y="225" class="label">Nucleus</text><text x="803" y="269" class="label">Cytoplasm</text>
+<path d="M280 382 V393 H480 V382" class="guide"/>
+<text x="380.0" y="377" text-anchor="middle" class="label">50 µm</text>
+<rect x="24" y="428" width="900" height="49" rx="13" fill="#fff2b9"/>
+<text x="40" y="461" class="title">Microscope drawing of human cheek epithelial cells</text>
+<text x="25" y="519" class="note">Schematic scale example · use calibration for your own practical drawing.</text></svg>
