@@ -271,3 +271,10 @@ figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
 
 /* Biological drawing labels stay readable: each example gets its own centred row. */
 .biological-drawing-grid{grid-template-columns:minmax(0,1fr);max-width:820px;margin-inline:auto;gap:20px}
+
+/* Preserve revision highlights and callout colours in printed sheets. */
+.print-hint{font-size:12px;color:var(--muted);margin:6px 0 0;line-height:1.4}
+@media print{
+  :root,body,body *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .print-hint{display:none!important}
+}
