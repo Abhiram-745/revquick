@@ -268,3 +268,6 @@ figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
 #rp1 .practical-columns>div,#rp2 .practical-columns>div{grid-column:auto;grid-row:auto;padding:0;border:0;min-width:0}
 @media screen and (max-width:850px){#rp1 .practical-columns,#rp2 .practical-columns{display:block}#rp1 .method-notes,#rp2 .method-notes{margin-top:20px}}
 @media print{#rp1 .practical-columns,#rp2 .practical-columns{display:block}#rp1 .practical-layout figure img,#rp2 .practical-layout figure img,.microscopy-diagram img{width:auto;max-width:100%;height:auto;max-height:150mm}}
+
+/* Biological drawing labels stay readable: each example gets its own centred row. */
+.biological-drawing-grid{grid-template-columns:minmax(0,1fr);max-width:820px;margin-inline:auto;gap:20px}

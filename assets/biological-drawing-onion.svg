@@ -1,27 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc">
-<title id="title">Onion bulb epidermis</title><desc id="desc">plant cells. Clear unshaded outlines and straight label lines. Illustrative drawing, not a measured microscope observation.</desc>
-<rect width="1000" height="680" fill="white"/>
-<style>text{font-family:Arial,Helvetica,sans-serif;fill:#182b38}.heading{font-size:32px;font-weight:700}.label{font-size:25px}.note{font-size:21px;fill:#455963}.outline{fill:none;stroke:#27343c;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.leader{fill:none;stroke:#27343c;stroke-width:1.8}</style>
-<text x="44" y="54" class="heading">Onion bulb epidermis</text>
-<text x="44" y="88" class="note">Biological drawing example · plant cells</text>
-<g class="outline">
-<!-- Shared walls: adjacent epidermal cells with no intercellular gaps. -->
-<path d="M78 167 L309 160 L563 173 L570 480 L323 491 L84 479 Z"/>
-<path d="M309 160 L315 322 L323 491 M81 324 L315 322 L566 329"/>
-<!-- Peripheral nuclei; no invented membrane, chloroplast or organelle detail. -->
-<ellipse cx="280" cy="198" rx="14" ry="20" transform="rotate(-12 280 198)"/>
-<ellipse cx="523" cy="207" rx="15" ry="21" transform="rotate(12 523 207)"/>
-<ellipse cx="125" cy="430" rx="15" ry="21" transform="rotate(-16 125 430)"/>
-<ellipse cx="365" cy="451" rx="16" ry="20" transform="rotate(8 365 451)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">Onion bulb epidermal cells</title><desc id="desc">Six elongated cells with adjoining walls in staggered rows, small nuclei and straight labels for cell wall and nucleus. Original illustrative drawing informed by microscopy references, not a measured specimen.</desc>
+<rect width="1000" height="600" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#17273a}.title{font-size:32px;font-weight:700}.label{font-size:27px}.note{font-size:22px;fill:#526477}.outline{fill:none;stroke:#25323b;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.wall{fill:none;stroke:#25323b;stroke-width:3.2;stroke-linejoin:round;stroke-linecap:round}.leader{fill:none;stroke:#25323b;stroke-width:1.8}</style>
+<text x="36" y="48" class="title">Onion bulb epidermal cells</text>
+<text x="36" y="82" class="note">Biological drawing · clear outlines, no shading</text>
+<!-- Elongated cells in staggered rows, inspired by observed onion epidermis. -->
+<g class="wall">
+<path d="M62 150 Q164 138 302 148 Q479 136 655 151 L661 245 L657 339 L650 435 Q438 444 270 432 Q160 442 68 429 L64 337 L60 243 Z"/>
+<path d="M60 243 Q203 235 376 245 Q502 253 661 245 M64 337 Q203 347 267 335 Q460 328 657 339"/>
+<path d="M302 148 Q314 176 304 204 L294 242 M376 245 Q384 268 373 302 L363 333 M267 335 Q277 363 266 399 L270 432"/>
 </g>
-<g class="leader"><path d="M564.79 251 H664"/><path d="M538 207 H664"/></g>
-<text x="682" y="215" class="label">Nucleus</text>
-<text x="682" y="259" class="label">Cell wall</text>
-<text x="682" y="370" class="note">Adjoining cells</text>
-<text x="682" y="399" class="note">No gaps between walls</text>
-<text x="682" y="449" class="note">No chloroplasts in</text>
-<text x="682" y="478" class="note">onion bulb epidermis</text>
-<path d="M44 570 H956" stroke="#dbe4e7"/>
-<text x="44" y="610" class="label">Magnification: ×_____</text>
-<text x="44" y="645" class="note">Fill in the value used for your observation; this example is not to scale.</text>
+<g class="outline">
+<ellipse cx="112" cy="217" rx="9" ry="12" transform="rotate(-18 112 217)"/>
+<ellipse cx="597" cy="200" rx="10" ry="13"/>
+<ellipse cx="341" cy="291" rx="9" ry="12" transform="rotate(12 341 291)"/>
+<ellipse cx="422" cy="268" rx="9" ry="12" transform="rotate(-18 422 268)"/>
+<ellipse cx="112" cy="399" rx="10" ry="12" transform="rotate(15 112 399)"/>
+<ellipse cx="583" cy="405" rx="9" ry="12" transform="rotate(-12 583 405)"/>
+</g>
+<g class="leader"><path d="M607 200 H728"/><path d="M660 280 H728"/></g>
+<text x="747" y="208" class="label">Nucleus</text>
+<text x="747" y="288" class="label">Cell wall</text>
+<text x="747" y="372" class="note">Long, adjoining cells</text>
+<text x="747" y="405" class="note">No chloroplasts</text>
+<path d="M36 504 H964" stroke="#dfe8ed"/>
+<text x="36" y="544" class="label">Record microscope magnification: ×_____</text>
+<text x="36" y="580" class="note">Draw the cells you observe. This illustrative example is not to scale.</text>
 </svg>

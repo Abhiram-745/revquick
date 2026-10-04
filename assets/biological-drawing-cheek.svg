@@ -1,23 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc">
-<title id="title">Human cheek epithelial cells</title><desc id="desc">animal cells. Clear unshaded outlines and straight label lines. Illustrative drawing, not a measured microscope observation.</desc>
-<rect width="1000" height="680" fill="white"/>
-<style>text{font-family:Arial,Helvetica,sans-serif;fill:#182b38}.heading{font-size:32px;font-weight:700}.label{font-size:25px}.note{font-size:21px;fill:#455963}.outline{fill:none;stroke:#27343c;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.leader{fill:none;stroke:#27343c;stroke-width:1.8}</style>
-<text x="44" y="54" class="heading">Human cheek epithelial cells</text>
-<text x="44" y="88" class="note">Biological drawing example · animal cells</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">Human cheek epithelial cells</title><desc id="desc">Three flattened irregular epithelial cells of similar size with small nuclei and straight labels for membrane, nucleus and cytoplasm. Original illustrative drawing informed by microscopy references, not a measured specimen.</desc>
+<rect width="1000" height="600" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#17273a}.title{font-size:32px;font-weight:700}.label{font-size:27px}.note{font-size:22px;fill:#526477}.outline{fill:none;stroke:#25323b;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round}.wall{fill:none;stroke:#25323b;stroke-width:3.2;stroke-linejoin:round;stroke-linecap:round}.leader{fill:none;stroke:#25323b;stroke-width:1.8}</style>
+<text x="36" y="48" class="title">Human cheek epithelial cells</text>
+<text x="36" y="82" class="note">Biological drawing · clear outlines, no shading</text>
+<!-- Flat, irregular epithelial cells: three representative cells, no overlaps. -->
 <g class="outline">
-<path d="M140 187 C169 141 241 142 287 164 C328 183 352 204 382 217 C414 235 421 278 401 311 C382 345 338 367 294 372 C242 389 190 372 155 350 C127 329 108 295 111 257 C110 226 119 205 140 187 Z"/>
-<ellipse cx="253" cy="255" rx="31" ry="37" transform="rotate(-14 253 255)"/>
-<path d="M371 406 C401 371 443 371 477 390 C506 406 532 412 547 440 C566 474 551 515 521 535 C493 552 454 548 424 535 C389 526 360 508 354 478 C348 450 352 428 371 406 Z"/>
-<ellipse cx="445" cy="463" rx="24" ry="28" transform="rotate(18 445 463)"/>
+<path d="M119 168 L182 140 Q201 137 220 153 L274 197 Q286 213 278 236 L260 287 Q257 307 236 314 L183 331 Q164 336 147 322 L102 290 Q86 279 89 254 L94 206 Q97 182 119 168 Z"/>
+<path d="M337 148 L403 134 Q429 131 452 149 L501 184 Q522 199 517 224 L507 281 Q504 304 482 316 L427 344 Q409 351 390 336 L343 307 Q325 295 325 274 L316 204 Q313 171 337 148 Z"/>
+<path d="M223 360 L279 348 Q302 344 321 358 L372 391 Q394 407 385 430 L364 465 Q353 482 329 484 L270 478 Q243 477 223 457 L194 424 Q181 404 194 385 Z"/>
+<ellipse cx="186" cy="237" rx="22" ry="28" transform="rotate(-13 186 237)"/>
+<ellipse cx="419" cy="239" rx="23" ry="27" transform="rotate(12 419 239)"/>
+<ellipse cx="288" cy="414" rx="24" ry="22" transform="rotate(-12 288 414)"/>
 </g>
-<g class="leader"><path d="M350 202 H664"/><path d="M284 255 H664"/><path d="M334 301 H664"/></g>
-<text x="682" y="210" class="label">Cell membrane</text>
-<text x="682" y="263" class="label">Nucleus</text>
-<text x="682" y="309" class="label">Cytoplasm</text>
-<text x="682" y="413" class="note">Irregular cell outlines</text>
-<text x="682" y="442" class="note">No cell wall</text>
-<text x="682" y="471" class="note">No chloroplasts</text>
-<path d="M44 570 H956" stroke="#dbe4e7"/>
-<text x="44" y="610" class="label">Magnification: ×_____</text>
-<text x="44" y="645" class="note">Fill in the value used for your observation; this example is not to scale.</text>
+<g class="leader"><path d="M480 169 H720"/><path d="M442 239 H720"/><path d="M476 279 H720"/></g>
+<text x="739" y="177" class="label">Cell membrane</text>
+<text x="739" y="247" class="label">Nucleus</text>
+<text x="739" y="287" class="label">Cytoplasm</text>
+<text x="739" y="390" class="note">Flat, irregular cells</text>
+<text x="739" y="423" class="note">No cell wall</text>
+<path d="M36 504 H964" stroke="#dfe8ed"/>
+<text x="36" y="544" class="label">Record microscope magnification: ×_____</text>
+<text x="36" y="580" class="note">Draw the cells you observe. This illustrative example is not to scale.</text>
 </svg>
