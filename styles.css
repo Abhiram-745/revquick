@@ -238,3 +238,14 @@ figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
 @media screen and (max-width:1000px){.chapter-four .visual-pair{grid-template-columns:minmax(0,1fr)}}
 @media screen and (max-width:900px){header .bar{flex-wrap:wrap}header nav{flex-wrap:wrap}}
 @media print{.chapter-four main{max-width:none}.chapter-four .visual-pair{display:block}.chapter-four figure img{width:auto;height:auto;max-width:100%;max-height:150mm}}
+
+/* Notes layout: readable page width; illustrations sit centred under their text instead of stretching across the page. */
+@media screen{
+ main,.chapter-four main{max-width:1180px;margin-inline:auto}
+ header .bar{max-width:1180px;margin-inline:auto}
+ .visual-pair,.chapter-four .visual-pair{display:block;margin:20px 0}
+ .visual-pair .visual-art,.chapter-four .visual-pair .visual-art{position:static;margin:22px auto 0;max-width:820px}
+ .visual-art figure,.section>figure,.chapter-four .section>figure{max-width:820px;margin-inline:auto}
+ figure img,.visual-art figure img,.chapter-four figure img{width:auto;max-width:100%;max-height:460px;margin-inline:auto}
+}
+@media screen and (max-width:600px){figure img,.visual-art figure img,.chapter-four figure img{max-height:340px}}
