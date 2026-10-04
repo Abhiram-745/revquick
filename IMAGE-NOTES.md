@@ -110,3 +110,40 @@ Accuracy review: AQA 8461 4.2.2.2–4.2.2.7 and 4.2.3.1–4.2.3.2; June 2023 Hig
 Four original illustrations made with the built-in image-generation tool. Style brief: clean exam-revision illustration on white, black outlines and labels, simple pale fills, short annotations and no decorative characters. Prompt set: ventilation/blood transport/cellular respiration; palisade and spongy mesophyll structure-function comparison; dissolved sugar destinations in phloem; water uptake compared with transpiration loss.
 
 Assets: `assets/ch2-respiration-link.webp`, `assets/ch2-leaf-tissue-functions.webp`, `assets/ch2-phloem-destinations.webp`, `assets/ch2-water-uptake-estimate.webp`. These are conceptual teaching models, not measured diagrams, precise anatomy, apparatus instructions or chemical structures. One glucose symbol was corrected during review to avoid showing a chain labelled as glucose. Transport arrows do not represent a chemical reaction; sugar arrows show destinations rather than simultaneous opposite flow in one sieve tube. The uptake image explains a potometer limitation rather than depicting apparatus. AQA 8461 4.2.2.2, 4.2.3.1–4.2.3.2 and 4.4.2.1 were consulted. Existing notes and figures are retained; Module 1, Module 2 and global styles/scripts are unchanged. New figures use the existing enlarge control and print styling, with intrinsic dimensions and no cropping.
+ 
+## Chapter 3: additional visual explanations
+
+Twenty original illustrations generated with the built-in image-generation tool, added to the three Chapter 3 module pages. Existing notes, figures, chapter navigation, shared styles and scripts are preserved. New files use the existing full-width, intrinsic-ratio figure layout, lazy loading and click-to-enlarge viewer. Each has a short highlighted caption; the RP2 images include the method and reasons directly in the artwork and descriptive alt text.
+
+Shared prompt direction: original professional British GCSE revision-guide illustrations, white background, consistent navy outlines, restrained teal/blue/coral/yellow, bold readable labels, compact panels, no photorealism, 3D, mascots or copied publisher artwork. These are qualitative memory aids, not scaled anatomy, molecular structures, quantitative charts or calibrated apparatus drawings.
+
+Final prompt subjects and placement:
+
+| Asset in `assets/` | Topic / image brief |
+| --- | --- |
+| `ch3-pathogen-effects-revision.webp` | Bacteria reproduce rapidly and may release tissue-damaging toxins; viruses reproduce inside living cells and damage them. |
+| `ch3-transmission-links-revision.webp` | Air, food/water, body fluids/contact and vector transmission paired with appropriate precautions. |
+| `ch3-cilia-mucus-revision.webp` | Mucus traps pathogens, cilia move mucus towards the throat, and swallowed pathogens encounter stomach acid. |
+| `ch3-immune-roles-revision.webp` | Separate phagocytosis, specific antibody binding and antitoxin action. |
+| `ch3-plant-disease-growth-revision.webp` | TMV/black spot damage → reduced photosynthesis → less glucose → reduced biomass/growth. |
+| `ch3-mineral-functions-revision.webp` | Nitrate for amino acids/proteins and growth; magnesium for chlorophyll; distinguish deficiency from infection. |
+| `ch3-rp2-preparation-revision.webp` | Steps 1–3: disinfect bench, teacher-prepared inoculated sterile nutrient agar, sterile forceps and brief lid lifting. |
+| `ch3-rp2-discs-revision.webp` | Steps 4–6: equal-size discs/equal treatment volumes, spacing, replace lid, solvent-only control; antibiotic discs as alternative. |
+| `ch3-rp2-incubation-revision.webp` | Steps 7–9: partly tape, inverted 25°C incubation, closed-plate perpendicular diameter measurements, repeats, means and radius/area rule. |
+| `ch3-population-vaccination-revision.webp` | Fewer susceptible people create fewer opportunities for transmission; no universal numeric threshold. |
+| `ch3-medicine-differences-revision.webp` | Antibiotics act on susceptible bacteria; painkillers relieve symptoms; viruses reproduce in living cells. |
+| `ch3-drug-origins-revision.webp` | Digitalis/foxgloves, aspirin/willow and penicillin/Penicillium paired with their uses. |
+| `ch3-trial-controls-revision.webp` | Placebo comparison, double-blind bias reduction and independent peer review. |
+| `ch3-hybridoma-cloning-revision.webp` | Select one hybridoma, clone it, identical cells make the same antibody, collect and purify. |
+| `ch3-targeted-antibodies-revision.webp` | Complementary cancer-cell antigen permits binding and delivery of an attached treatment; side effects remain possible. |
+| `ch3-pregnancy-binding-revision.webp` | Mobile labelled antibodies bind hCG; fixed antibodies capture hCG complexes; coloured label accumulates; separate control-line role. |
+| `ch3-conditions-interact-revision.webp` | Immune defects/infections, some viral infections/cancers, and physical illness/mental health. |
+| `ch3-risk-evidence-revision.webp` | Risk is probability, not certainty; association alone is not causation; consider confounders and study design. People are illustrative, not study data. |
+| `ch3-type2-response-revision.webp` | Reduced cellular response to insulin makes blood glucose harder to control; qualitative signal/uptake symbols. |
+| `ch3-alcohol-effects-revision.webp` | Connect alcohol exposure to liver, brain and developing-baby effects. |
+
+Scientific review used AQA Biology 8461 sections 4.3, 4.1.1.6 and 4.2.2.5–7, the AQA practical handbook RP2 section, and June 2023 Higher Paper 1 Q03/Q04 mark scheme and examiner report. Original wording is used for the illustrations; they are not official AQA figures. RP2 is formally in Cell Biology and is revisited here, rather than represented as a new Chapter 3 practical. The water-only control is an example: match the actual treatment solvent. About 48 hours is an example incubation period, not a universal required duration. Higher Tier labels remain on monoclonal-antibody illustrations.
+
+Targeted corrections reviewed before publication: chlorophyll represented as pigment instead of labelling a whole chloroplast; forceps kept away from the Petri lid; reasons for inversion and tape gaps added; placebo described as having the same appearance without active drug; insulin signal stops at the cell surface; fixed pregnancy-test antibody binds hCG rather than the coloured label. All final image text and conceptual arrows were visually inspected. Output was converted to WebP without changing the image content.
+
+Sources: [AQA Infection and response](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/infection-and-response), [Cell Biology](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/cell-biology), [Organisation](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/organisation), [practical handbook](https://filestore.aqa.org.uk/resources/biology/AQA-8461-PRACTICALS-HB.PDF), [2023 Higher Paper 1 mark scheme](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF), [examiner report](https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-WRE-JUN23.PDF).

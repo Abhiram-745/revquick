@@ -1,6 +1,6 @@
 {
   "chapter": "Infection and response",
-  "specification": "AQA GCSE Biology 8461 section 4.3; final Blertly module revisits 4.2.2.5\u20137",
+  "specification": "AQA GCSE Biology 8461 section 4.3; final Blertly module revisits 4.2.2.5–7",
   "module_structure": [
     "Communicable diseases",
     "Preventing & treating disease",
@@ -183,5 +183,108 @@
     "4.3.3.2": "Biology only"
   },
   "required_practical_recap": "microscopy.html#rp2",
-  "visuals": 16
+  "visuals": 36,
+  "additional_visuals": [
+    {
+      "asset": "assets/ch3-pathogen-effects-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "pathogens"
+    },
+    {
+      "asset": "assets/ch3-transmission-links-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "spread"
+    },
+    {
+      "asset": "assets/ch3-cilia-mucus-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "body-defences"
+    },
+    {
+      "asset": "assets/ch3-immune-roles-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "white-blood-cells"
+    },
+    {
+      "asset": "assets/ch3-plant-disease-growth-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "plant-infections"
+    },
+    {
+      "asset": "assets/ch3-mineral-functions-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "plant-diagnosis"
+    },
+    {
+      "asset": "assets/ch3-rp2-preparation-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "culture-recap"
+    },
+    {
+      "asset": "assets/ch3-rp2-discs-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "culture-recap"
+    },
+    {
+      "asset": "assets/ch3-rp2-incubation-revision.webp",
+      "page": "communicable-diseases.html",
+      "topic": "culture-recap"
+    },
+    {
+      "asset": "assets/ch3-population-vaccination-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "vaccination"
+    },
+    {
+      "asset": "assets/ch3-medicine-differences-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "medicines"
+    },
+    {
+      "asset": "assets/ch3-drug-origins-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "drug-discovery"
+    },
+    {
+      "asset": "assets/ch3-trial-controls-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "drug-trials"
+    },
+    {
+      "asset": "assets/ch3-hybridoma-cloning-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "monoclonal-production"
+    },
+    {
+      "asset": "assets/ch3-targeted-antibodies-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "monoclonal-uses"
+    },
+    {
+      "asset": "assets/ch3-conditions-interact-revision.webp",
+      "page": "non-communicable-diseases.html",
+      "topic": "health"
+    },
+    {
+      "asset": "assets/ch3-risk-evidence-revision.webp",
+      "page": "non-communicable-diseases.html",
+      "topic": "risk-evidence"
+    },
+    {
+      "asset": "assets/ch3-type2-response-revision.webp",
+      "page": "non-communicable-diseases.html",
+      "topic": "diet-exercise"
+    },
+    {
+      "asset": "assets/ch3-alcohol-effects-revision.webp",
+      "page": "non-communicable-diseases.html",
+      "topic": "alcohol-carcinogens"
+    },
+    {
+      "asset": "assets/ch3-pregnancy-binding-revision.webp",
+      "page": "preventing-disease.html",
+      "topic": "pregnancy-tests"
+    }
+  ],
+  "required_practical_visual_method": "communicable-diseases.html#culture-recap"
 }
