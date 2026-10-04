@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc">
+<title id="title">Human cheek epithelial cells</title><desc id="desc">animal cells. Clear unshaded outlines and straight label lines. Illustrative drawing, not a measured microscope observation.</desc>
+<rect width="1000" height="680" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#182b38}.heading{font-size:32px;font-weight:700}.label{font-size:25px}.note{font-size:21px;fill:#455963}.outline{fill:none;stroke:#27343c;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.leader{fill:none;stroke:#27343c;stroke-width:1.8}</style>
+<text x="44" y="54" class="heading">Human cheek epithelial cells</text>
+<text x="44" y="88" class="note">Biological drawing example · animal cells</text>
+<g class="outline">
+<path d="M140 187 C169 141 241 142 287 164 C328 183 352 204 382 217 C414 235 421 278 401 311 C382 345 338 367 294 372 C242 389 190 372 155 350 C127 329 108 295 111 257 C110 226 119 205 140 187 Z"/>
+<ellipse cx="253" cy="255" rx="31" ry="37" transform="rotate(-14 253 255)"/>
+<path d="M371 406 C401 371 443 371 477 390 C506 406 532 412 547 440 C566 474 551 515 521 535 C493 552 454 548 424 535 C389 526 360 508 354 478 C348 450 352 428 371 406 Z"/>
+<ellipse cx="445" cy="463" rx="24" ry="28" transform="rotate(18 445 463)"/>
+</g>
+<g class="leader"><path d="M350 202 H664"/><path d="M284 255 H664"/><path d="M334 301 H664"/></g>
+<text x="682" y="210" class="label">Cell membrane</text>
+<text x="682" y="263" class="label">Nucleus</text>
+<text x="682" y="309" class="label">Cytoplasm</text>
+<text x="682" y="413" class="note">Irregular cell outlines</text>
+<text x="682" y="442" class="note">No cell wall</text>
+<text x="682" y="471" class="note">No chloroplasts</text>
+<path d="M44 570 H956" stroke="#dbe4e7"/>
+<text x="44" y="610" class="label">Magnification: ×_____</text>
+<text x="44" y="645" class="note">Fill in the value used for your observation; this example is not to scale.</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720" role="img" aria-labelledby="title desc">
+<title id="title">RP2: interpreting and measuring inhibition zones</title><desc id="desc">Schematic agar plate with two treatment discs and one solvent-only control. Treatment A has a larger clear zone than treatment B. An enlarged circular zone shows diameter across the centre and radius from the centre to the edge. An illustrative 12 millimetre diameter gives a 6 millimetre radius and an area of approximately 113 square millimetres.</desc>
+<rect width="1100" height="720" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#17273a}.title{font-size:32px;font-weight:700}.label{font-size:24px;font-weight:700}.note{font-size:21px}.small{font-size:19px}.line{fill:none;stroke:#17273a;stroke-width:2}</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#227669"/></marker></defs>
+<text x="40" y="50" class="title">RP2 · Clear zone = inhibited bacterial growth</text>
+<text x="40" y="84" class="note">Schematic results, not experimental data · Keep the plate closed after incubation</text>
+<circle cx="270" cy="320" r="195" fill="#e7f4ee" stroke="#17273a" stroke-width="3"/>
+<circle cx="210" cy="247" r="63" fill="white" stroke="#526477" stroke-width="2"/>
+<circle cx="360" cy="347" r="40" fill="white" stroke="#526477" stroke-width="2"/>
+<g fill="#fff2b9" stroke="#17273a" stroke-width="2"><circle cx="210" cy="247" r="14"/><circle cx="360" cy="347" r="14"/><circle cx="200" cy="424" r="14"/></g>
+<text x="201" y="219" class="label">A</text><text x="352" y="321" class="label">B</text><text x="221" y="432" class="label">C</text>
+<path d="M161 207 L100 146 H40" class="line"/><text x="40" y="130" class="small">Clear zone around A</text>
+<rect x="60" y="548" width="19" height="19" rx="4" fill="#e7f4ee" stroke="#526477"/><text x="90" y="565" class="note">Green agar: bacterial growth</text>
+<circle cx="70" cy="594" r="9" fill="#fff2b9" stroke="#17273a"/><text x="90" y="602" class="note">Yellow circles: paper discs</text>
+<text x="60" y="644" class="small">C = solvent-only control; no clear zone in this example.</text>
+<text x="60" y="675" class="small">A inhibits more growth than B under these conditions.</text>
+<path d="M548 130 V682" stroke="#dfe8ed"/>
+<text x="600" y="148" class="label">Measure through the centre</text>
+<circle cx="808" cy="337" r="113" fill="#f8fafb" stroke="#17273a" stroke-width="2.5"/>
+<circle cx="808" cy="337" r="17" fill="#fff2b9" stroke="#17273a" stroke-width="2"/>
+<path d="M695 337 H921" stroke="#227669" stroke-width="2.5" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text x="714" y="204" class="label">Diameter = 12 mm</text>
+<path d="M808 337 V450" stroke="#227669" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="947" y="384" class="note">Radius</text><text x="947" y="413" class="note">= 6 mm</text>
+<rect x="594" y="494" width="455" height="112" rx="16" fill="#e6f1ff"/>
+<text x="616" y="530" class="label">Area = πr²</text>
+<text x="616" y="568" class="label">π × 6² ≈ 113 mm²</text>
+<text x="599" y="643" class="small">Illustrative calculation; do not measure this picture.</text>
+<text x="599" y="675" class="small">Follow instructions about including the disc area.</text>
+</svg>

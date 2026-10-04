@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc">
+<title id="title">Onion bulb epidermis</title><desc id="desc">plant cells. Clear unshaded outlines and straight label lines. Illustrative drawing, not a measured microscope observation.</desc>
+<rect width="1000" height="680" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#182b38}.heading{font-size:32px;font-weight:700}.label{font-size:25px}.note{font-size:21px;fill:#455963}.outline{fill:none;stroke:#27343c;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.leader{fill:none;stroke:#27343c;stroke-width:1.8}</style>
+<text x="44" y="54" class="heading">Onion bulb epidermis</text>
+<text x="44" y="88" class="note">Biological drawing example · plant cells</text>
+<g class="outline">
+<!-- Shared walls: adjacent epidermal cells with no intercellular gaps. -->
+<path d="M78 167 L309 160 L563 173 L570 480 L323 491 L84 479 Z"/>
+<path d="M309 160 L315 322 L323 491 M81 324 L315 322 L566 329"/>
+<!-- Peripheral nuclei; no invented membrane, chloroplast or organelle detail. -->
+<ellipse cx="280" cy="198" rx="14" ry="20" transform="rotate(-12 280 198)"/>
+<ellipse cx="523" cy="207" rx="15" ry="21" transform="rotate(12 523 207)"/>
+<ellipse cx="125" cy="430" rx="15" ry="21" transform="rotate(-16 125 430)"/>
+<ellipse cx="365" cy="451" rx="16" ry="20" transform="rotate(8 365 451)"/>
+</g>
+<g class="leader"><path d="M564.79 251 H664"/><path d="M538 207 H664"/></g>
+<text x="682" y="215" class="label">Nucleus</text>
+<text x="682" y="259" class="label">Cell wall</text>
+<text x="682" y="370" class="note">Adjoining cells</text>
+<text x="682" y="399" class="note">No gaps between walls</text>
+<text x="682" y="449" class="note">No chloroplasts in</text>
+<text x="682" y="478" class="note">onion bulb epidermis</text>
+<path d="M44 570 H956" stroke="#dbe4e7"/>
+<text x="44" y="610" class="label">Magnification: ×_____</text>
+<text x="44" y="645" class="note">Fill in the value used for your observation; this example is not to scale.</text>
+</svg>

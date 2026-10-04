@@ -249,3 +249,22 @@ figure img{width:auto;max-width:100%;height:auto;margin:0 auto}
  figure img,.visual-art figure img,.chapter-four figure img{width:auto;max-width:100%;max-height:460px;margin-inline:auto}
 }
 @media screen and (max-width:600px){figure img,.visual-art figure img,.chapter-four figure img{max-height:340px}}
+
+
+/* RP1 drawing examples: complete intrinsic-ratio images at every screen width. */
+.biological-drawings{margin-top:24px;min-width:0}
+.biological-drawing-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}
+.biological-drawing-grid figure{min-width:0;margin:0}
+.biological-drawing-grid figure img{display:block;width:100%;height:auto;max-width:100%;max-height:none;object-fit:contain}
+.biological-drawing-grid figure button{width:100%;padding:0}
+@media screen and (max-width:850px){.biological-drawing-grid{grid-template-columns:minmax(0,1fr)}}
+@media print{.biological-drawing-grid{display:block}.biological-drawing-grid figure{break-inside:avoid;margin-bottom:12px}.biological-drawing-grid figure img{max-height:150mm;width:auto;max-width:100%;height:auto}}
+
+/* Make every microscopy practical image readable without clipping or stretching. */
+#rp1 .practical-layout,#rp2 .practical-layout{display:block}
+#rp1 .practical-layout>figure,#rp2 .practical-layout>figure,.microscopy-diagram{position:static;width:100%;max-width:820px;margin:18px auto}
+#rp1 .practical-layout figure img,#rp2 .practical-layout figure img,.microscopy-diagram img{width:100%;height:auto;max-width:100%;max-height:none;object-fit:contain}
+#rp1 .practical-columns,#rp2 .practical-columns{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;margin-top:20px}
+#rp1 .practical-columns>div,#rp2 .practical-columns>div{grid-column:auto;grid-row:auto;padding:0;border:0;min-width:0}
+@media screen and (max-width:850px){#rp1 .practical-columns,#rp2 .practical-columns{display:block}#rp1 .method-notes,#rp2 .method-notes{margin-top:20px}}
+@media print{#rp1 .practical-columns,#rp2 .practical-columns{display:block}#rp1 .practical-layout figure img,#rp2 .practical-layout figure img,.microscopy-diagram img{width:auto;max-width:100%;height:auto;max-height:150mm}}
