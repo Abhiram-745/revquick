@@ -85,3 +85,21 @@ Style brief: clean exam-revision illustration on white, black outlines and label
 Prompt subjects: levels of organisation from muscle cell through tissue and stomach to digestive system and human; large insoluble food molecules becoming small soluble products followed by absorption (sugars and amino acids model); complementary enzyme and substrate compared with a changed active site after high temperature or extreme pH; bile's alkaline action and physical emulsification into smaller fat droplets.
 
 Print colours: `print-color-adjust: exact` and `-webkit-print-color-adjust: exact` preserve highlights and callout fills. Browser/printer user settings still take priority; enable Background graphics and use colour printing. Print-button preparation requests eager image loading and waits for decoding before opening the print dialog.
+
+## Chapter 2 Modules 2–4: focused additional illustrations
+
+Eight original conceptual teaching illustrations added with the built-in AI image-generation tool. Existing notes, worked examples, tables and diagrams are preserved. No new topics or lengthy explanations were added. Each has one short caption, descriptive alt text, an enlargement button and intrinsic width/height for correct proportions.
+
+Shared prompt/style: original exam-revision-guide drawings on white, fine black outlines, short black sans-serif labels, simple pale peach/yellow/blue/green fills; no decorative cards, faces, glossy 3D or measured scales. Broad clean illustration style informed by the earlier Save My Exams reference review; no copied artwork. These are conceptual motifs, not precise anatomy, scale diagrams or numerical data.
+
+Prompt set and assets:
+- `assets/ch2-vessels-extra.webp`: artery/vein relative wall and lumen, vein valves, thin capillary wall.
+- `assets/ch2-chd-extra.webp`: narrowed coronary artery, open stented lumen and reduced-flow respiration explanation.
+- `assets/ch2-cancer-extra.webp`: benign containment, malignant invasion and distant secondary tumours.
+- `assets/ch2-ventilation-extra.webp`: diaphragm/rib movement, thorax volume, pressure and air direction.
+- `assets/ch2-gasexchange-extra.webp`: opposite oxygen/carbon-dioxide diffusion directions across two thin walls.
+- `assets/ch2-roots-extra.webp`: root-hair surface area, osmosis and energy-requiring mineral-ion uptake.
+- `assets/ch2-transpiration-extra.webp`: evaporation then vapour diffusion, plus guard-cell opening/closing.
+- `assets/ch2-factors-extra.webp`: conceptual effects of temperature, wind, humidity and light.
+
+Accuracy review: AQA 8461 4.2.2.2–4.2.2.7 and 4.2.3.1–4.2.3.2; June 2023 Higher Paper 1 Q02.4/Q02.8 and the 2021 Higher Paper 1 plant/cancer questions. Checked labels and biological relationships: directions relative to heart; muscle/elastic wall comparison; diffusion distance; CHD oxygen/respiration link; invasion/spread; gas directions; pressure/volume relationship; water versus ion uptake; evaporation versus diffusion; humidity gradient. Existing precise circulation schematic, anatomy figures and potometer apparatus remain available.
