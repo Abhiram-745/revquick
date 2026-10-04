@@ -183,53 +183,8 @@
     "4.3.3.2": "Biology only"
   },
   "required_practical_recap": "microscopy.html#rp2",
-  "visuals": 36,
+  "visuals": 32,
   "additional_visuals": [
-    {
-      "asset": "assets/ch3-pathogen-effects-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "pathogens"
-    },
-    {
-      "asset": "assets/ch3-transmission-links-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "spread"
-    },
-    {
-      "asset": "assets/ch3-cilia-mucus-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "body-defences"
-    },
-    {
-      "asset": "assets/ch3-immune-roles-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "white-blood-cells"
-    },
-    {
-      "asset": "assets/ch3-plant-disease-growth-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "plant-infections"
-    },
-    {
-      "asset": "assets/ch3-mineral-functions-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "plant-diagnosis"
-    },
-    {
-      "asset": "assets/ch3-rp2-preparation-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "culture-recap"
-    },
-    {
-      "asset": "assets/ch3-rp2-discs-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "culture-recap"
-    },
-    {
-      "asset": "assets/ch3-rp2-incubation-revision.webp",
-      "page": "communicable-diseases.html",
-      "topic": "culture-recap"
-    },
     {
       "asset": "assets/ch3-population-vaccination-revision.webp",
       "page": "preventing-disease.html",
@@ -284,7 +239,76 @@
       "asset": "assets/ch3-pregnancy-binding-revision.webp",
       "page": "preventing-disease.html",
       "topic": "pregnancy-tests"
+    },
+    {
+      "asset": "assets/ch3-m1-pathogens.webp",
+      "page": "communicable-diseases.html",
+      "topic": "pathogens"
+    },
+    {
+      "asset": "assets/ch3-m1-spread.webp",
+      "page": "communicable-diseases.html",
+      "topic": "spread"
+    },
+    {
+      "asset": "assets/ch3-m1-human.webp",
+      "page": "communicable-diseases.html",
+      "topic": "human-diseases"
+    },
+    {
+      "asset": "assets/ch3-m1-malaria.webp",
+      "page": "communicable-diseases.html",
+      "topic": "malaria"
+    },
+    {
+      "asset": "assets/ch3-m1-barriers.webp",
+      "page": "communicable-diseases.html",
+      "topic": "body-defences"
+    },
+    {
+      "asset": "assets/ch3-m1-immune.webp",
+      "page": "communicable-diseases.html",
+      "topic": "white-blood-cells"
+    },
+    {
+      "asset": "assets/ch3-m1-plant.webp",
+      "page": "communicable-diseases.html",
+      "topic": "plant-infections"
+    },
+    {
+      "asset": "assets/ch3-m1-minerals.webp",
+      "page": "communicable-diseases.html",
+      "topic": "plant-diagnosis"
+    },
+    {
+      "asset": "assets/ch3-m1-defences.webp",
+      "page": "communicable-diseases.html",
+      "topic": "plant-defences"
+    },
+    {
+      "asset": "assets/ch3-m1-rp-setup.webp",
+      "page": "communicable-diseases.html",
+      "topic": "culture-recap"
+    },
+    {
+      "asset": "assets/ch3-m1-rp-discs.webp",
+      "page": "communicable-diseases.html",
+      "topic": "culture-recap"
+    },
+    {
+      "asset": "assets/ch3-m1-rp-results.webp",
+      "page": "communicable-diseases.html",
+      "topic": "culture-recap"
     }
   ],
-  "required_practical_visual_method": "communicable-diseases.html#culture-recap"
+  "required_practical_visual_method": "communicable-diseases.html#culture-recap",
+  "module_one_rebuild": {
+    "reviewed": "2026-10-04",
+    "scope": "4.3.1.1–6; 4.3.3.1–2; RP2 recap 4.1.1.6",
+    "visuals": 12,
+    "method_steps": 9,
+    "definitions": "Terms explained at their first relevant use",
+    "tier": "Both plant disease detection and identification HT only",
+    "sources": "AQA specification, practical handbook, 2018/2021/2023 mark schemes; Oak explanations; RHS TMV; Kew egg mimicry"
+  }
 }
