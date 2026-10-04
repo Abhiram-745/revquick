@@ -103,3 +103,10 @@ Prompt set and assets:
 - `assets/ch2-factors-extra.webp`: conceptual effects of temperature, wind, humidity and light.
 
 Accuracy review: AQA 8461 4.2.2.2–4.2.2.7 and 4.2.3.1–4.2.3.2; June 2023 Higher Paper 1 Q02.4/Q02.8 and the 2021 Higher Paper 1 plant/cancer questions. Checked labels and biological relationships: directions relative to heart; muscle/elastic wall comparison; diffusion distance; CHD oxygen/respiration link; invasion/spread; gas directions; pressure/volume relationship; water versus ion uptake; evaporation versus diffusion; humidity gradient. Existing precise circulation schematic, anatomy figures and potometer apparatus remain available.
+
+
+## Additional visuals for Chapter 2 Modules 3 and 4 only
+
+Four original illustrations made with the built-in image-generation tool. Style brief: clean exam-revision illustration on white, black outlines and labels, simple pale fills, short annotations and no decorative characters. Prompt set: ventilation/blood transport/cellular respiration; palisade and spongy mesophyll structure-function comparison; dissolved sugar destinations in phloem; water uptake compared with transpiration loss.
+
+Assets: `assets/ch2-respiration-link.webp`, `assets/ch2-leaf-tissue-functions.webp`, `assets/ch2-phloem-destinations.webp`, `assets/ch2-water-uptake-estimate.webp`. These are conceptual teaching models, not measured diagrams, precise anatomy, apparatus instructions or chemical structures. One glucose symbol was corrected during review to avoid showing a chain labelled as glucose. Transport arrows do not represent a chemical reaction; sugar arrows show destinations rather than simultaneous opposite flow in one sieve tube. The uptake image explains a potometer limitation rather than depicting apparatus. AQA 8461 4.2.2.2, 4.2.3.1–4.2.3.2 and 4.4.2.1 were consulted. Existing notes and figures are retained; Module 1, Module 2 and global styles/scripts are unchanged. New figures use the existing enlarge control and print styling, with intrinsic dimensions and no cropping.
